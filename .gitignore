@@ -1,0 +1,7 @@
+__Previews/
+*/__Previews/
+History/
+*/History/
+*.SchDocPreview
+*.PcbDocPreview
+.~\([0-9]*\)*
